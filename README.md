@@ -1,6 +1,7 @@
-# palindrome
+palindrome
+==========
 
-The best project ever.
+Example code from Mark Dalgleish's excellent Test-Driven NodeJS development using Grunt
 
 ## Getting Started
 Install the module with: `npm install palindrome`
@@ -23,5 +24,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2012 Michael Allan  
+Copyright (c) 2012 Michael Allan
 Licensed under the MIT license.
