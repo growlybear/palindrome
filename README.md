@@ -1,7 +1,8 @@
 palindrome
 ==========
 
-Example code from Mark Dalgleish's excellent Test-Driven NodeJS development using Grunt
+Example code from Mark Dalgleish's excellent [Test-Driven NodeJS development using Grunt]
+(http://markdalgleish.com/2012/09/test-driven-node-js-development-with-grunt/)
 
 ## Getting Started
 Install the module with: `npm install palindrome`
