@@ -9,6 +9,7 @@ Install the module with: `npm install palindrome`
 
 ```javascript
 var palindrome = require('palindrome');
+
 palindrome.test('Able was I ere I saw Elba');   // true
 palindrome.test('Able was I ere I was Melba');  // false
 ```
