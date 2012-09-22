@@ -1,5 +1,4 @@
-palindrome
-==========
+# palindrome [![Build Status](https://secure.travis-ci.org/growlybear/palindrome.png)](http://travis-ci.org/growlybear/palindrome)
 
 Example code from Mark Dalgleish's excellent [Test-Driven NodeJS development using Grunt]
 (http://markdalgleish.com/2012/09/test-driven-node-js-development-with-grunt/)
